@@ -17,4 +17,7 @@ This project is an Amazon clone created using HTML and CSS. It aims to replicate
 </ul>
 
 <h3>Output:</h3>
-<video src="Amazon - Google Chrome 2024-04-30 19-47-53.mp4"></video>
+
+
+https://github.com/VashuJain2024/Amazon_clone/assets/167463558/2d475e9a-a36f-4dfa-a543-f7c20bafce42
+
